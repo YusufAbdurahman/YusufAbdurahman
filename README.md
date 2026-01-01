@@ -49,7 +49,7 @@ Passionate about innovation, I continuously expand my skills in **Machine Learni
 ## <h4 align="center">GitHub Streak</h4>
 <div align="center">
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=YusufAbdurahman&theme=tokyonight&hide_border=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=YusufAbdurahman&theme=ocean_dark&hide_border=true)
 
 </div>
 
